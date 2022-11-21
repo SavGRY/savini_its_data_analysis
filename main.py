@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-df = pd.read_csv('pokedex_(Update_05.20).csv', index_col=0)
+df = pd.read_csv('CSV/pokedex_(Update_05.20).csv', index_col=0)
 
 col_names = [
     'pokedex_number', 'name', 'generation',
@@ -16,5 +16,5 @@ col_names = [
 
 filtered_pokemon_data = pd.DataFrame(df, columns=col_names)
 filtered_pokemon_data.to_csv('filtered_pokemon_data.csv', index=False)
-df = pd.read_csv('filtered_pokemon_data.csv')
+df = pd.read_csv('CSV/filtered_pokemon_data.csv')
 
