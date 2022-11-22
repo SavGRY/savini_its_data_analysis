@@ -27,7 +27,7 @@ percentage_male
 
 1) Starter 1st evo comparison
 2) Starter 3rd evo comparison 
-3) Quantity of pokemon increased from gen to gen
+3) -- Quantity of pokemon increased from gen to gen 
 4) Radar chart but with worst and best pkmn
 5) Pokekon quantity filtered by type
 6) Avg stats for each generation compared to the others
