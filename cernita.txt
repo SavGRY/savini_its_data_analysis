@@ -40,19 +40,3 @@ percentage_male
 13) Best/Worst "Normal Pokemon"
 14) Best/Worst Mythic Pokemon
 15) How many Pokemon have hidden ability
-
-
-if filtered_pokemon_data['generation'] == 2:
-    filtered_pokemon_data.assign(year = column_data_to_add[1])
-if filtered_pokemon_data['generation'] == 3:
-    filtered_pokemon_data.assign(year = column_data_to_add[2])
-if filtered_pokemon_data['generation'] == 4:
-    filtered_pokemon_data.assign(year = column_data_to_add[3])
-if filtered_pokemon_data['generation'] == 5:
-    filtered_pokemon_data.assign(year = column_data_to_add[4])
-if filtered_pokemon_data['generation'] == 6:
-    filtered_pokemon_data.assign(year = column_data_to_add[5])
-if filtered_pokemon_data['generation'] == 7:
-    filtered_pokemon_data.assign(year = column_data_to_add[6])
-if filtered_pokemon_data['generation'] == 8:
-    filtered_pokemon_data.assign(year = column_data_to_add[7])
