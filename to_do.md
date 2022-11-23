@@ -15,3 +15,5 @@
 - Best/Worst "Normal Pokemon"
 - Best/Worst Mythic Pokemon
 - How many Pokemon have hidden ability
+- The most difficult pokemon to level up to 100
+- STD experience to 100
