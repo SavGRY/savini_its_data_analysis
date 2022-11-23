@@ -7,7 +7,7 @@
 [//]: # (- Pokekon quantity filtered by type)
 [//]: # (- Avg stats for each generation compared to the others)
 [//]: # (- Lightest pokemon)
-- Heaviest Pokemon
+[//]: # (- Heaviest Pokemon)
 - Fastest Pokemon
 - Tallest Pokemon
 - Smallest Pokemon
