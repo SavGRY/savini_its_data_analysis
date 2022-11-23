@@ -1,3 +1,8 @@
+1. https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420
+2. https://www.kaggle.com/datasets/maca11/all-pokemon-dataset
+
+
+
 pokedex_number
 name
 generation
