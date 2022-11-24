@@ -14,6 +14,8 @@
 - Best/Worst Legendary Pokemon
 - Best/Worst "Normal Pokemon"
 - Best/Worst Mythic Pokemon
+
+[//]: # (- Compare Best and Worse Pokemon per Generation )
 - Best Generation
 - How many Pokemon have hidden ability
 - The most difficult pokemon to level up to 100
