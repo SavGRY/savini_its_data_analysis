@@ -10,7 +10,7 @@
 [//]: # (- Heaviest Pokemon)
 [//]: # (- Fastest Pokemon)
 [//]: # (- Tallest Pokemon)
-- Smallest Pokemon
+[//]: # (- Smallest Pokemon)
 - Best/Worst Legendary Pokemon
 - Best/Worst "Normal Pokemon"
 - Best/Worst Mythic Pokemon
