@@ -8,12 +8,13 @@
 [//]: # (- Avg stats for each generation compared to the others)
 [//]: # (- Lightest pokemon)
 [//]: # (- Heaviest Pokemon)
-- Fastest Pokemon
-- Tallest Pokemon
+[//]: # (- Fastest Pokemon)
+[//]: # (- Tallest Pokemon)
 - Smallest Pokemon
 - Best/Worst Legendary Pokemon
 - Best/Worst "Normal Pokemon"
 - Best/Worst Mythic Pokemon
+- Best Generation
 - How many Pokemon have hidden ability
 - The most difficult pokemon to level up to 100
 - STD experience to 100
