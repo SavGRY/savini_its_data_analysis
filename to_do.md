@@ -8,11 +8,12 @@
 [//]: # "- Tallest Pokemon"
 [//]: # "- Smallest Pokemon"
 [//]: # "- Compare Best and Worse Pokemon per Generation "
-[//]: # (- Best/Worst Legendary Pokemon)
+[//]: # (Best/Worst Legendary Pokemon)
+[//]: # (- Best/Worst "Normal Pokemon")
+
 
 - Starter 1st evo comparison
 - Starter 3rd evo comparison
-- Best/Worst "Normal Pokemon"
 - Best/Worst Mythic Pokemon
 - Best Generation
 - How many Pokemon have hidden ability
