@@ -15,3 +15,7 @@
 [//]: # "- Starter 1st evo comparison"
 [//]: # "- How many pokemon for each "slice" of tot exp to lv 100"
 [//]: # "- How many Pokemon have hidden ability"
+
+[//]: # "- Using Ufunc"
+
+- Export to SQLAlchemy
