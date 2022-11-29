@@ -11,11 +11,9 @@
 [//]: # (Best/Worst Legendary Pokemon)
 [//]: # (- Best/Worst "Normal Pokemon")
 [//]: # (- Best/Worst Mythic Pokemon)
+[//]: # (- Starter 1st evo comparison)
 
 
-- Starter 1st evo comparison
-- Starter 3rd evo comparison
-- Best Generation
 - How many Pokemon have hidden ability
 - The most difficult pokemon to level up to 100
 - STD experience to 100
