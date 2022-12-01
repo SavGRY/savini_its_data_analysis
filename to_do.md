@@ -9,13 +9,17 @@
 [//]: # "- Smallest Pokemon"
 [//]: # "- Compare Best and Worse Pokemon per Generation "
 [//]: # "- Best/Worst Legendary Pokemon"
+[//]: # (- Export to SQLAlchemy)
+[//]: # (- Using Ufunc)
+[//]: # (- Best/Worst "Normal Pokemon)
+[//]: # (- Best/Worst Mythic Pokemon)
+[//]: # (- Starter 1st evo comparison)
+[//]: # (- How many pokemon for each "slice" of tot exp to lv 100)
+[//]: # (- How many Pokemon have hidden ability)
 
-[//]: # "- Best/Worst "Normal Pokemon"
-[//]: # "- Best/Worst Mythic Pokemon"
-[//]: # "- Starter 1st evo comparison"
-[//]: # "- How many pokemon for each "slice" of tot exp to lv 100"
-[//]: # "- How many Pokemon have hidden ability"
+##### Other Studies I Could Have Done:
+- Easiest and Most Difficult Pokémon to catch (catch rate)
+- Pie Chart With percentage of Pokémon being 'M' or 'F'
+- Other
 
-[//]: # "- Using Ufunc"
 
-- Export to SQLAlchemy
