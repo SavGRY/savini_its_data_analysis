@@ -17,9 +17,5 @@
 [//]: # (- How many pokemon for each "slice" of tot exp to lv 100)
 [//]: # (- How many Pokemon have hidden ability)
 
-##### Other Studies I Could Have Done:
-- Easiest and Most Difficult Pokémon to catch (catch rate)
-- Pie Chart With percentage of Pokémon being 'M' or 'F'
-- Other
 
-
+https://www.pngitem.com
