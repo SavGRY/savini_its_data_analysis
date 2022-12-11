@@ -1,4 +1,4 @@
-# ** ITA Savini Rudy**
+# **ITA Savini Rudy**
 Progetto per il modulo di python incentrato sulla data analisi, con numpy, pandas
 
 # Indice:
@@ -38,7 +38,7 @@ Progetto per il modulo di python incentrato sulla data analisi, con numpy, panda
 ## Fonti
 
 
-# ** EN Savini Rudy**
+# **EN Savini Rudy**
 *Be aware of the Essay being in Italian for the sake of the project*
 *There are things in this project that could have been easily done with other approach*
 Project for python module for FITSTIC  focusing on data analysis, with numpy, pandas
