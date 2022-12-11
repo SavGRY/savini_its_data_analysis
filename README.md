@@ -1,4 +1,4 @@
-# **Savini Rudy**
+# ** ITA Savini Rudy**
 Progetto per il modulo di python incentrato sulla data analisi, con numpy, pandas
 
 # Indice:
@@ -36,3 +36,45 @@ Progetto per il modulo di python incentrato sulla data analisi, con numpy, panda
 ## Sviluppi Futuri
 
 ## Fonti
+
+
+# ** EN Savini Rudy**
+*Be aware of the Essay being in Italian for the sake of the project*
+*There are things in this project that could have been easily done with other approach*
+Project for python module for FITSTIC  focusing on data analysis, with numpy, pandas
+
+# Table of Contents:
+
+## Introduction
+
+1. Explanation
+2. Selection of Data Set
+3. Operations to be performed
+
+## Preamble
+
+## Unfolding
+
+1. Project Initialisation
+2. Getting the first data
+3. Data analysis without charts
+4. Data analysis with charts
+   - How many Pokémon were released per generation:
+   - Comparison of the generational increase in relation to the total number of Pokémon:
+   - Comparison of the increase in Pokémon with how many were added:
+   - Searching the most common primary and secondary types:
+   - Comparison of strongest and weakest Pokémon for each generation:
+   - Amount of Pokémon per total Experience at level 100:
+   - Amount of Pokémon with Hidden Abilities
+   - Comparing two Pokémon to see which is stronger
+5. Elaboration with more complex graphs:
+   - Best and worst Pokémon ever compared:
+   - Best and worst for status:
+   - Comparison by Generation of all early starter evolutions:
+6. Exporting to SQLAlchemy
+
+## Conclusions
+
+## Future Developments
+
+## Sources
